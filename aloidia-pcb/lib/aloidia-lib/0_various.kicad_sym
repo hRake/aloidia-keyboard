@@ -63,11 +63,11 @@
       )
     )
   )
-  (symbol "SWD 10 Pin 0.05\"" (in_bom yes) (on_board yes)
+  (symbol "SWD_02x05_1.27mm" (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 2.54 18.415 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SWD 10 Pin 0.05\"" (id 1) (at 3.175 15.24 0)
+    (property "Value" "SWD_02x05_1.27mm" (id 1) (at 3.175 15.24 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "0_various:FTSH-105-01" (id 2) (at 16.51 -1.905 0)
@@ -79,7 +79,7 @@
     (property "Manufacturer ref" "Adafruit 4048" (id 4) (at 3.81 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "SWD 10 Pin 0.05\"_0_0"
+    (symbol "SWD_02x05_1.27mm_0_0"
       (circle (center -1.905 -3.81) (radius 0.0001)
         (stroke (width 1.27) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -143,7 +143,7 @@
         (fill (type none))
       )
     )
-    (symbol "SWD 10 Pin 0.05\"_0_1"
+    (symbol "SWD_02x05_1.27mm_0_1"
       (polyline
         (pts
           (xy 4.445 -6.35)
@@ -153,7 +153,7 @@
         (fill (type none))
       )
     )
-    (symbol "SWD 10 Pin 0.05\"_1_1"
+    (symbol "SWD_02x05_1.27mm_1_1"
       (pin power_in line (at -13.335 8.89 0) (length 2.54)
         (name "VTref" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
