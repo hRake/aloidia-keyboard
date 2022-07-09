@@ -73,4 +73,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
   )
+  (model "${KIPRJMOD}/../lib/aloidia-lib/3d/MX_Switch.stp"
+    (offset (xyz -0.3 0.25 -7.25))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
 )

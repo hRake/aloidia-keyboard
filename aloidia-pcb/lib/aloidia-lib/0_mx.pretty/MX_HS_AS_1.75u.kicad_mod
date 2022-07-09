@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (tedit 0)
   (attr through_hole)
-  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0f436411-2f68-447e-a4dc-07ac8017e2a7)
   )
@@ -76,5 +76,10 @@
     (offset (xyz -4.8 6.7 1.75))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
+  )
+  (model "${KIPRJMOD}/../lib/aloidia-lib/3d/MX_Switch.stp"
+    (offset (xyz -0.3 0.25 -7.25))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
   )
 )
