@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "0_various")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/aloidia-lib/0_various.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+)

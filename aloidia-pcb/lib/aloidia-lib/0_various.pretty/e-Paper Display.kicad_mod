@@ -10,7 +10,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 121c1f0e-e8c6-433e-94d2-e44bfe4d0e0e)
   )
-  (fp_text user "Display" (at -15 9.14 unlocked) (layer "Cmts.User")
+  (fp_text user "Display" (at -15 9.14 180 unlocked) (layer "Cmts.User")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ea9402ac-18b1-4a53-8f8c-470eafefc779)
   )
