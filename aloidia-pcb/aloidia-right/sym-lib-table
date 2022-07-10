@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name "0_fet")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/aloidia-lib/0_fet.kicad_sym")(options "")(descr ""))
+  (lib (name "0_mcu")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/aloidia-lib/0_mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "0_power")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/aloidia-lib/0_power.kicad_sym")(options "")(descr ""))
+  (lib (name "0_protection")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/aloidia-lib/0_protection.kicad_sym")(options "")(descr ""))
+  (lib (name "0_various")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/aloidia-lib/0_various.kicad_sym")(options "")(descr ""))
+  (lib (name "0_switch_button")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/aloidia-lib/0_switch_button.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+)
