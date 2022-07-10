@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "ALOIDIA Keyboard E-Paper Display Module PCB")
+    (title "ALOIDIA Keyboard 1.02 inch e-Paper Display Module PCB")
     (comment 2 "Author: Vincent Nguyen")
   )
 
@@ -1203,7 +1203,7 @@
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ac79cc8f-b1d0-4b4a-b2f6-05d7e63bacb8)
     )
-    (fp_text value "01x08 2.54mm Pin Headers " (at -0.641496 -20.11 90) (layer "B.Fab")
+    (fp_text value "01x08 2.54mm Pin Headers " (at -3.7774 0.016 180) (layer "B.Fab")
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 77e8d62b-a40d-4360-9ea6-55cb58249b88)
     )
@@ -1251,7 +1251,7 @@
       (xy 167.05 104.8)
     ) (layer "Dwgs.User") (width 0.1) (fill none) (tstamp 314d84d8-74ec-403d-9a89-3dce9b550417))
   (gr_rect (start 164.75 96.1) (end 150.75 74.4) (layer "Dwgs.User") (width 0.1) (fill none) (tstamp 97bf07e9-61c4-4df4-afd7-9328a1ed8f9c))
-  (gr_line (start 171 67.95) (end 171 106.55) (layer "Cmts.User") (width 0.15) (tstamp 08a155be-9cee-4e43-af9c-dd7ec6dd7fc4))
+  (gr_line (start 171 67.95) (end 171 106.45) (layer "Cmts.User") (width 0.15) (tstamp 08a155be-9cee-4e43-af9c-dd7ec6dd7fc4))
   (gr_line (start 171 67.95) (end 170.5 68.65) (layer "Cmts.User") (width 0.15) (tstamp 1d06ecfb-965f-4640-9692-a3c81a758407))
   (gr_line (start 167.55 105.4) (end 167.55 110.2) (layer "Cmts.User") (width 0.08) (tstamp 59b45877-9b93-45e7-9cbc-f302114c8611))
   (gr_line (start 167.5 109.5) (end 166.8 110) (layer "Cmts.User") (width 0.15) (tstamp 81da448e-e09d-40ba-9cf0-535caf0b7e8d))
