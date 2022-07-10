@@ -26,3 +26,6 @@ fp-info-cache
 *.dsn
 *.ses
 
+# Round track configuration file
+*.round-tracks-config
+
