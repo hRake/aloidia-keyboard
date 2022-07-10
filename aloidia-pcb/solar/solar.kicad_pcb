@@ -832,6 +832,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KIPRJMOD}/../lib/aloidia-lib/3d/S2B-PH-SM4-TB.STEP"
+      (offset (xyz 0 -4.3 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (gr_line (start 168.75 88) (end 168.75 87) (layer "B.SilkS") (width 0.1) (tstamp 0ad87f92-7e3a-4cf4-8b50-9e2e38741eb7))
