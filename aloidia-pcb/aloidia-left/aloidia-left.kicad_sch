@@ -13666,7 +13666,7 @@
     (property "Value" "Pin headers 2.54mm 01x08" (id 1) (at 304.165 354.965 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" (id 2) (at 300.99 347.345 0)
+    (property "Footprint" "0_various:e-Paper Display" (id 2) (at 300.99 347.345 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 300.99 347.345 0)
@@ -18526,7 +18526,7 @@
     (property "Value" "Pin headers 2.54mm 01x08" (id 1) (at 304.165 386.08 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" (id 2) (at 300.99 378.46 0)
+    (property "Footprint" "0_various:e-Paper Display" (id 2) (at 300.99 378.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 300.99 378.46 0)
@@ -19378,7 +19378,7 @@
       (reference "J1") (unit 1) (value "SWD_02x05_1.27mm") (footprint "0_various:FTSH-105-01")
     )
     (path "/1cda5eb4-afc8-4a02-b490-49ad1887b50a"
-      (reference "J2") (unit 1) (value "Pin headers 2.54mm 01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+      (reference "J2") (unit 1) (value "Pin headers 2.54mm 01x08") (footprint "0_various:e-Paper Display")
     )
     (path "/962e543a-c7cf-4094-9c46-8a755fd990cd"
       (reference "J3") (unit 1) (value "SM06B-SRSS-TB") (footprint "Connector_JST:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal")
@@ -19405,7 +19405,7 @@
       (reference "J11") (unit 1) (value "USB4105-GF-A-120") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
     (path "/edd06817-62ac-4ee9-8cbf-ee1b8fa0a003"
-      (reference "J12") (unit 1) (value "Pin headers 2.54mm 01x08") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+      (reference "J12") (unit 1) (value "Pin headers 2.54mm 01x08") (footprint "0_various:e-Paper Display")
     )
     (path "/6cdd3c99-5837-4b31-8029-55819d65dd32"
       (reference "JP1") (unit 1) (value "REV_PROT_DISABLE") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
