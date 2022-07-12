@@ -445,7 +445,6 @@
           "/LTC_IN",
           "/VBUS_IN",
           "/VBUS_REM",
-          "/VBUS_REM_FUSE",
           "/VM",
           "VBUS_ESD",
           "VBUS_FUSE"
