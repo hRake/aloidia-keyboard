@@ -359,7 +359,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "aloidia-left.kicad_pro",
+    "filename": "aloidia-right.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -445,7 +445,6 @@
           "/LTC_IN",
           "/VBUS_IN",
           "/VBUS_REM",
-          "/VBUS_REM_FUSE",
           "/VM",
           "VBUS_ESD",
           "VBUS_FUSE"
@@ -485,7 +484,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "aloidia-left.net",
+      "netlist": "aloidia-right.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
