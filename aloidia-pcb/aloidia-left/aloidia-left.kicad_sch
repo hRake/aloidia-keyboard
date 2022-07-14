@@ -11874,10 +11874,6 @@
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid bb464f80-4002-4dd8-9e3f-e24a4fae8751)
   )
-  (text "20431" (at 244.475 166.37 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid be35fee6-784b-4834-a022-6a5ad8ead5b9)
-  )
   (text "Test Points" (at 405.13 328.93 0)
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
     (uuid c2f725fa-f5a7-4ec1-8c17-47edab16bf8f)
@@ -11898,11 +11894,6 @@
     (at 169.545 394.335 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid eab3895a-7e64-4f80-99f3-ae654c092bcf)
-  )
-  (text "Do not populate \n5.1k resistors if\nusing daugtherboard"
-    (at 406.4 85.725 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid efba10a5-ef8c-4910-9603-4d5662201dd0)
   )
   (text "3.3V LDO" (at 106.68 243.84 0)
     (effects (font (size 2.54 2.54) (thickness 0.508) bold) (justify left bottom))
@@ -13154,8 +13145,8 @@
   (symbol (lib_id "Device:RotaryEncoder_Switch") (at 185.42 210.185 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 02255a2e-cf6a-4aaf-b567-b14904a1768b)
-    (property "Reference" "SW2" (id 0) (at 185.42 200.025 0))
-    (property "Value" "MX_EVQWGD001" (id 1) (at 185.42 202.565 0))
+    (property "Reference" "SW147" (id 0) (at 185.42 199.39 0))
+    (property "Value" "MX_EVQWGD001" (id 1) (at 185.42 201.93 0))
     (property "Footprint" "0_mx:MX_HS_AS_1u_EVQWGD001" (id 2) (at 189.23 214.249 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -14665,7 +14656,7 @@
   (symbol (lib_id "0_switch_button:EG6201") (at 303.53 187.96 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3fe6fed8-9a07-421e-99c1-11871056c590)
-    (property "Reference" "SW4" (id 0) (at 303.53 152.4 0))
+    (property "Reference" "SW2" (id 0) (at 303.53 152.4 0))
     (property "Value" "EG6201" (id 1) (at 303.53 154.94 0))
     (property "Footprint" "0_switch_button:SW_EG6201" (id 2) (at 303.53 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -19642,11 +19633,8 @@
     (path "/bb212276-e990-438d-b32c-eaa98542b052"
       (reference "SW1") (unit 1) (value "SSSS213100") (footprint "marbastlib-various:SW_SSSS213100")
     )
-    (path "/02255a2e-cf6a-4aaf-b567-b14904a1768b"
-      (reference "SW2") (unit 1) (value "MX_EVQWGD001") (footprint "0_mx:MX_HS_AS_1u_EVQWGD001")
-    )
     (path "/3fe6fed8-9a07-421e-99c1-11871056c590"
-      (reference "SW4") (unit 1) (value "EG6201") (footprint "0_switch_button:SW_EG6201")
+      (reference "SW2") (unit 1) (value "EG6201") (footprint "0_switch_button:SW_EG6201")
     )
     (path "/6758c029-d18f-4e53-a4f0-ea56f0ed8397"
       (reference "SW100") (unit 1) (value "MX_EC11") (footprint "0_mx:MX_HS_AS_EC11_1u")
@@ -19767,6 +19755,9 @@
     )
     (path "/c5276b18-88c2-4126-a93b-cb900a0a37d5"
       (reference "SW146") (unit 1) (value "SW_Push") (footprint "0_mx:MX_HS_AS_1u")
+    )
+    (path "/02255a2e-cf6a-4aaf-b567-b14904a1768b"
+      (reference "SW147") (unit 1) (value "MX_EVQWGD001") (footprint "0_mx:MX_HS_AS_1u_EVQWGD001")
     )
     (path "/f82dd2b9-8a0e-4acd-880a-7e176fcd0b3a"
       (reference "SW243") (unit 1) (value "SW_Push") (footprint "0_mx:MX_HS_AS_1u")
